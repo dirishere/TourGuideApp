@@ -6,4 +6,6 @@ This project include:<br>
 ● Navigating between lists in Fragments using a ViewPager plus TabLayout<br>
 ● using OnClickListener to add behavior to buttons (using Java code),<br>
 ● creating own Custom Class,<br>
-● looping through an ArrayList and populating a ListView with and ArrayAdapter.<br>
+● looping through an ArrayList and populating a ListView with and ArrayAdapter.<br><br>
+
+<i>All images using in this app comes from wikipedia.org</i>
