@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="about_1">Bydgoszcz</string>
+    <string name="about_1_1">is a city in northern Poland, on the Brda and Vistula rivers. King Casimir III of Poland, granted Bydgoszcz city rights (charter) on 19 April 1346.</string>
+    <string name="about_2">Etymology</string>
+    <string name="about_2_1">Bydgoszcz, originally Bydgoszcza (feminine), is a pronoun name the second part of which – \'goszcz\' comes from \'gost-jь\' possibly or \'gost-ja\' an old Slavic root which refers to an urban or suburban trading settlement. </string>
+    <string name="about_3">Population</string>
+    <string name="about_3_1">With a city population of 358,614 (June 2014), and an urban agglomeration with more than 470,000 inhabitants, Bydgoszcz is the eighth-largest city in Poland.</string>
+    <string name="about_4">For more...</string>
+    <string name="about_4_1">Check the other sections or... \nVisit us! :) </string>
+
+    <string name="people_1">Marian Rejewski</string>
+    <string name="people_2">Jan Kulczyk</string>
+    <string name="people_3">Zbigniew Boniek</string>
+    <string name="people_4">Radosław Sikorski</string>
+    <string name="people_5">Tomasz Gollob</string>
+    <string name="people_for_more">Click to read more! (wikipedia)</string>
+
+    <string name="places_1">Granaries in Grodzka Street</string>
+    <string name="places_1_1">The three granaries in Grodzka Street, picturesquely located on the Brda River in the immediate vicinity of the old Market Square, are the official symbol of the city. Built at the turn of the 19th century, they were originally used to store grain and similar products, but now house exhibitions of the City\'s Leon Wyczółkowski District Museum.</string>
+    <string name="places_2">Mill Island</string>
+    <string name="places_2_1">Most of the buildings which can still be seen on the island date from the 19th century, but the so-called Biały Spichlerz (the White Granary) recalls the end of the 18th century. However, it is the water, footbridges, historic red-brick tenement houses reflected in the rivers, and the greenery, including old chestnut trees, that create the unique atmosphere of the island.</string>
+    <string name="places_3">Saint Vincent de Paul\'s Basilica</string>
+    <string name="places_3_1">The largest church in Bydgoszcz and one of the biggest in Poland. It can accommodate around 12,000 people. This monumental church, modelled after the Pantheon in Rome, was designed by the Polish architect Adam Ballenstaedt. </string>
+    <string name="places_4">Fara Church</string>
+    <string name="places_4_1">The oldest building in the city is the Church of St Martin and Nicolaus, commonly known as Fara Church. It is a three-aisle late Gothic church, erected between 1466 and 1502, which boasts a late-Gothic painting entitled Madonna with a Rose or the Holy Virgin of Beautiful Love from the 16th century. The colourful 20th-century polychrome is also worth noticing.</string>
+
+    <string name="nature_1">Bydgoszcz Canal</string>
+    <string name="nature_1_1">Bydgoszcz Canal is a canal, 24.7 km long, between the cities of Bydgoszcz and Nakło in Poland, connecting Vistula river with Oder river, through Brda and Noteć rivers (the latter ending in the Warta river which itself ends in Oder). The level difference along the canal is regulated by 6 locks.</string>
+    <string name="nature_2">Myslecinek</string>
+    <string name="nature_2_1">Myslecinek is the largest city park in Poland, located only three kilometers from the center of Bydgoszcz. Over 800 hectares of forest enclaves with hills and ravines cut by streams are not only visited by the inhabitants of Bydgoszcz.</string>
+    <string name="nature_3">Wielka Kepa Ostromecka</string>
+    <string name="nature_3_1">Nature Reserve Wielka Kepa Ostromecka - a forest reserve with an area of ​​27.6 ha, located in the Kuyavian-Pomeranian Voivodeship near Bydgoszcz.
+There is a tourist yellow hiking trail "Chełmno Reserves" Bydgoszcz Fordon - Chełmno (48 km). Following it on foot or by bike, you can visit the reserves located on the right slope of the Vistula Valley.</string>
+    <string name="nature_4">Puszcza Bydgoska</string>
+    <string name="nature_4_1">Puszcza Bydgoska - a forest complex located south of Bydgoszcz and Toruń, with an area of ​​over 45,000 ha. It is characterized by the occurrence of vast fields of inland dunes, covered with pine forest with admixtures of deciduous oak, birch, hornbeam and other species.</string>
+
+</resources>

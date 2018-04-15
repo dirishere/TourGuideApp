@@ -1,0 +1,6 @@
+<resources>
+    <!-- Height of image in item -->
+    <dimen name="image_height">200dp</dimen>
+    <!-- margin -->
+    <dimen name="margin">16dp</dimen>
+</resources>
